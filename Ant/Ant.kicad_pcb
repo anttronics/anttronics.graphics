@@ -5,6 +5,14 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "The AntTronics Ant")
+    (date "2023-12-07")
+    (rev "1.0")
+    (company "AntTronics")
+    (comment 1 "https://github.com/anttronics/anttronics.graphics")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
